@@ -1,8 +1,8 @@
 {
-  "name": "blank-tab-modern-ext",
-  "displayName": "Blank Tab Modern",
-  "version": "0.0.0",
-  "description": "Blank Tab extension",
+  "name": "blank-tab-ext",
+  "displayName": "Blank Tab",
+  "version": "1.0.0",
+  "description": "Blank Tab extension, support dark mode.",
   "author": "2nthony",
   "scripts": {
     "dev": "plasmo dev",
